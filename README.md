@@ -1,22 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# O uso da Inteligência Artificial (IA) em tratamentos estéticos
 
-## 🚀 Introdução
+## 📒 Descrição
+Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no dia a dia dos tratamentos estéticos e como elas moldarão o futuro da área estética.
 
-> Woooow! Look at this 👀
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e imagens;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. ChatGPT e, o "Leonardo AI" foi usado para gerar imagens para o e-book. 
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🚀 Resultados
+O e-book apresenta um conteúdo rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa nos tratamentos estéticos, educação e na disseminação de conteúdo qualificado.
 
-### Objetivos
+[LINK PARA O E-BOOK AQUI]()
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
+## 💭 Reflexão
+Criar este e-book foi uma experiência maravilhosa sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 ### Template
 
 ```markdown
@@ -38,14 +38,3 @@ Apresente os resultados do seu projeto
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
